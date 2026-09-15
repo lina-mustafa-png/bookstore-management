@@ -1,0 +1,7 @@
+bob,password,120
+charlie,qwerty,0
+david,abc123,30
+eve,xyz789,80
+frank,hello123,10
+lina,123,0
+a,a,1000
