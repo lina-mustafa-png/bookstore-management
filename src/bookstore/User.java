@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package bookstore;
 
-/**
- *
- * @author Darla
- */
 //An abstract class that represent a general user either being a Customer or an Owner
 public abstract class User {
     
